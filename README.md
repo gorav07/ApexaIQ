@@ -25,13 +25,13 @@ Use this README as your starting point for navigating all Week 1 resources.
 5. **[ApexaiQ Data Flow Architecture.md](5.ApexaiQ%20Data%20Flow%20Architecture.md)**  
    Diagrams and explanations of data flow within ApexaiQ systems.
 
-6. **[ApexaiQ Competitors.md](6.ApexaiQ_Competitors.md)**  
+6. **ApexaiQ Competitors.md**  
    Overview of competitors and market positioning of ApexaiQ.
 
-7. **[Key Terminologies.md](8.%20Key%20Terminologies.md)**  
+7. **Key Terminologies.md**  
    List of important terms and definitions used in ApexaiQ and ITAM.
 
-8. **[Sources.md](sources.md)**  
+8. **Sources.md**  
    References, links, and additional resources for Week 1 study.
 
 ---
